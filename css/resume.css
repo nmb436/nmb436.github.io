@@ -1,0 +1,19 @@
+body {
+	background-color: #d1e1fc;
+}
+
+div{border:2px dashed black;}
+
+header{
+	text-align: center;
+	font-size: 200%;
+}
+
+nav{font-size:100%;
+	font-style:italic;
+color:green;
+text-align:center;}
+
+h1{color:#b54d4d;
+text-decoration:underline;}
+	
